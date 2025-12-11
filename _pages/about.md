@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
--I'm currently pursuing my PhD degree in the Dual PhD Degree Programme provided by theHong Kong Polytechnic University and Nanjing University.
--My research interests are strategic leadership, corporate social evaluation, and Al indecision-making related.
--I can be contacted at liucxpp@connect.hku.hk
+- I'm currently pursuing my PhD degree in the Dual PhD Degree Programme provided by theHong Kong Polytechnic University and Nanjing University.
+- My research interests are strategic leadership, corporate social evaluation, and Al indecision-making related.
+- I can be contacted at liucxpp@connect.hku.hk
 
 # Publication
 -
