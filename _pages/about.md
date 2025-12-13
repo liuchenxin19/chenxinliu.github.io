@@ -12,7 +12,6 @@ redirect_from:
 # About me
 - I'm currently pursuing my PhD degree in the Dual PhD Degree Programme provided by the Hong Kong Polytechnic University and Nanjing University.
 - My research interests are strategic leadership, corporate social evaluation, and Al in decision-making related.
-- I can be contacted at liucxpp@connect.hku.hk
 
 # Publication
 -
